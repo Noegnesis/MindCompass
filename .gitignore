@@ -24,7 +24,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Oculus Package Files
-/[Aa]ssets/Oculus
+#/[Aa]ssets/Oculus
 
 
 # Visual Studio cache directory
