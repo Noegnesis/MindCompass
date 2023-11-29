@@ -6,11 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Samples/Meta XR Core SDK/59.0.0/Sample Scenes/MRC.unity
-    guid: c249320cff740054f973da7f7e24bd1f
-  - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/VirtualWallsScene.unity
+    guid: 44e58ddbce8972c4ca0f498fcb078833
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3451d08b371b264438a4475e8b9214df, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6dc65d101b1337543ab94f319b34a4f2, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7188239cac6ffb349ab12482be0df67b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 70613eb39eb049948a636e2f6efd91d7, type: 2}
