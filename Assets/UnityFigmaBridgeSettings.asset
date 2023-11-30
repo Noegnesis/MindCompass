@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119c1bd3601648f28a252a6030e067b6, type: 3}
   m_Name: UnityFigmaBridgeSettings
   m_EditorClassIdentifier: 
-  DocumentUrl: https://www.figma.com/file/29jX9813WadVyj0MMG8mYX/MindCompass-Med-fi-Full-Walkthrough?type=design&mode=design&t=97Cg0Qsnp8Yd3bGs-1
+  DocumentUrl: https://www.figma.com/file/29jX9813WadVyj0MMG8mYX/MindCompass-Med-fi-Full-Walkthrough?type=design&node-id=0-1&mode=design&t=nE5b08SuIu0TONPa-0
   BuildPrototypeFlow: 1
-  RunTimeAssetsScenePath: Assets/Scenes/VirtualWallsScene.unity
+  RunTimeAssetsScenePath: Assets/Scenes/VirtualWallXFigmaTest.unity
   EnableAutoLayout: 0
   ScreenBindingNamespace: 
   ServerRenderImageScale: 3

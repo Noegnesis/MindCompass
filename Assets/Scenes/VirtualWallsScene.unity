@@ -447,7 +447,7 @@ PrefabInstance:
     - target: {fileID: 747806495401477012, guid: c813208e672e3074bbe118e1a9ee94fd, type: 3}
       propertyPath: PrefabOverrides.Array.data[1].Prefab
       value: 
-      objectReference: {fileID: 1666320570299796296, guid: 8e99b8ea74a9a4e40b93b7f4e83b1462, type: 3}
+      objectReference: {fileID: 102490448831091297, guid: df163d7030fc9c443b347acd2088480a, type: 3}
     - target: {fileID: 747806495401477012, guid: c813208e672e3074bbe118e1a9ee94fd, type: 3}
       propertyPath: PrefabOverrides.Array.data[0].ClassificationLabel
       value: GLOBAL_MESH
@@ -591,6 +591,7 @@ GameObject:
   - component: {fileID: 502060194}
   - component: {fileID: 502060193}
   - component: {fileID: 502060192}
+  - component: {fileID: 502060196}
   m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
@@ -619,139 +620,139 @@ MonoBehaviour:
   m_PrototypeFlowInitialScreenId: 102:9885
   m_Screens:
   - FigmaNodeId: 2:3908
-    FigmaScreenPrefab: {fileID: 3013421598260614188, guid: d8d4f0d1d27cf0346b0f6a321ba61581, type: 3}
+    FigmaScreenPrefab: {fileID: 8797961740752526221, guid: d8d4f0d1d27cf0346b0f6a321ba61581, type: 3}
     FigmaScreenName: Rewards Store - Characters 1 no drop down
     ParentSectionNodeId: 
   - FigmaNodeId: 84:7115
-    FigmaScreenPrefab: {fileID: 3965025806516125018, guid: a13b6ad077db0c749876a4cd049c8938, type: 3}
+    FigmaScreenPrefab: {fileID: 415201160186030862, guid: a13b6ad077db0c749876a4cd049c8938, type: 3}
     FigmaScreenName: Rewards Store - Dilly locked
     ParentSectionNodeId: 
   - FigmaNodeId: 86:7299
-    FigmaScreenPrefab: {fileID: 8720656318289175928, guid: bb5245bcc6624a942ade21e3c4f34d68, type: 3}
+    FigmaScreenPrefab: {fileID: 2279663465448697887, guid: bb5245bcc6624a942ade21e3c4f34d68, type: 3}
     FigmaScreenName: Rewards Store - Rain unlocked
     ParentSectionNodeId: 
   - FigmaNodeId: 81:6884
-    FigmaScreenPrefab: {fileID: 5821829327528994341, guid: d5bfbd9c5d11cf844a871c83bd8cdc89, type: 3}
+    FigmaScreenPrefab: {fileID: 6239382032936290490, guid: d5bfbd9c5d11cf844a871c83bd8cdc89, type: 3}
     FigmaScreenName: Rewards Store - Penny Locked
     ParentSectionNodeId: 
   - FigmaNodeId: 81:6701
-    FigmaScreenPrefab: {fileID: 279615802813148691, guid: 8319fd1869dd6a545bfed3df6a825748, type: 3}
+    FigmaScreenPrefab: {fileID: 350934402060511288, guid: 8319fd1869dd6a545bfed3df6a825748, type: 3}
     FigmaScreenName: Rewards Store - Characters 1 w drop down
     ParentSectionNodeId: 
   - FigmaNodeId: 364:6070
-    FigmaScreenPrefab: {fileID: 1188158137273918140, guid: 98aa6c6b1ab1f7847b6447a1c8def077, type: 3}
+    FigmaScreenPrefab: {fileID: 611165668113302773, guid: 98aa6c6b1ab1f7847b6447a1c8def077, type: 3}
     FigmaScreenName: Rewards Store - Accessories Construction - w dropdown
     ParentSectionNodeId: 
   - FigmaNodeId: 3:4484
-    FigmaScreenPrefab: {fileID: 8879589587911929462, guid: 87865156714068744be8b8116e8c1e25, type: 3}
+    FigmaScreenPrefab: {fileID: 6895367949210525762, guid: 87865156714068744be8b8116e8c1e25, type: 3}
     FigmaScreenName: Rewards Store - Characters 2 no dropdown
     ParentSectionNodeId: 
   - FigmaNodeId: 81:6506
-    FigmaScreenPrefab: {fileID: 2275892988770911835, guid: 677a2f3e29dbbca4e95c0d031155cb25, type: 3}
+    FigmaScreenPrefab: {fileID: 7641331011828119291, guid: 677a2f3e29dbbca4e95c0d031155cb25, type: 3}
     FigmaScreenName: Rewards Store - Characters 2 dropdown
     ParentSectionNodeId: 
   - FigmaNodeId: 87:7988
-    FigmaScreenPrefab: {fileID: 9153625123765025740, guid: 853e1effc4de4274fad6a4d991bbdc04, type: 3}
+    FigmaScreenPrefab: {fileID: 7227512786306519648, guid: 853e1effc4de4274fad6a4d991bbdc04, type: 3}
     FigmaScreenName: Rewards Store - Todd Locked
     ParentSectionNodeId: 
   - FigmaNodeId: 87:7799
-    FigmaScreenPrefab: {fileID: 4481097456345816098, guid: 7a1d1513d656c724b917829761ff2f85, type: 3}
+    FigmaScreenPrefab: {fileID: 1177714589565170663, guid: 7a1d1513d656c724b917829761ff2f85, type: 3}
     FigmaScreenName: Rewards Store - Susie Locked
     ParentSectionNodeId: 
   - FigmaNodeId: 10:5563
-    FigmaScreenPrefab: {fileID: 58704525156754925, guid: 82c6f8f5da0519f47b285fd94bde76ef, type: 3}
+    FigmaScreenPrefab: {fileID: 419876128798134084, guid: 82c6f8f5da0519f47b285fd94bde76ef, type: 3}
     FigmaScreenName: Rewards Store - Environments
     ParentSectionNodeId: 
   - FigmaNodeId: 382:8730
-    FigmaScreenPrefab: {fileID: 6569427318738508391, guid: 203816bf4288f8e4a95bca6e12c3b409, type: 3}
+    FigmaScreenPrefab: {fileID: 7639688552759931829, guid: 203816bf4288f8e4a95bca6e12c3b409, type: 3}
     FigmaScreenName: Rewards Store - Jungle Locked
     ParentSectionNodeId: 
   - FigmaNodeId: 382:8888
-    FigmaScreenPrefab: {fileID: 2731741290777435519, guid: 806ab0856a6a6d04e90de67193955af2, type: 3}
+    FigmaScreenPrefab: {fileID: 7018237502797428720, guid: 806ab0856a6a6d04e90de67193955af2, type: 3}
     FigmaScreenName: Rewards Store - Beach Unlocked
     ParentSectionNodeId: 
   - FigmaNodeId: 382:8555
-    FigmaScreenPrefab: {fileID: 4654771143059536111, guid: 664376a3d117b5f46afb61520f0d4df2, type: 3}
+    FigmaScreenPrefab: {fileID: 3452009313644539677, guid: 664376a3d117b5f46afb61520f0d4df2, type: 3}
     FigmaScreenName: Rewards Store - Environments w dropdown
     ParentSectionNodeId: 
   - FigmaNodeId: 125:1892
-    FigmaScreenPrefab: {fileID: 9064393813692968604, guid: be603fe0aa0f7614b8606aa2b6ed23d2, type: 3}
+    FigmaScreenPrefab: {fileID: 6654158933410264321, guid: be603fe0aa0f7614b8606aa2b6ed23d2, type: 3}
     FigmaScreenName: Home - 3 no tutorial
     ParentSectionNodeId: 
   - FigmaNodeId: 242:2215
-    FigmaScreenPrefab: {fileID: 387036654776032370, guid: ac936609745240642b16ecb88b60c76d, type: 3}
+    FigmaScreenPrefab: {fileID: 8078755952043516345, guid: ac936609745240642b16ecb88b60c76d, type: 3}
     FigmaScreenName: Meditate - Config Screen
     ParentSectionNodeId: 
   - FigmaNodeId: 350:5035
-    FigmaScreenPrefab: {fileID: 824197454368842421, guid: 854c4b77efed0d742bfda7268145f99c, type: 3}
+    FigmaScreenPrefab: {fileID: 6341594501523166458, guid: 854c4b77efed0d742bfda7268145f99c, type: 3}
     FigmaScreenName: Meditate - Config Screen - music
     ParentSectionNodeId: 
   - FigmaNodeId: 250:2036
-    FigmaScreenPrefab: {fileID: 4565179931039332609, guid: 68e47815d88398c42ad9bc4fec9cae9c, type: 3}
+    FigmaScreenPrefab: {fileID: 1548363092922394464, guid: 68e47815d88398c42ad9bc4fec9cae9c, type: 3}
     FigmaScreenName: Meditate - Config Screen no highlight
     ParentSectionNodeId: 
   - FigmaNodeId: 348:2431
-    FigmaScreenPrefab: {fileID: 7357531765757427101, guid: ddfa85784a99afa479d0986c13bbac66, type: 3}
+    FigmaScreenPrefab: {fileID: 990359533631896163, guid: ddfa85784a99afa479d0986c13bbac66, type: 3}
     FigmaScreenName: Meditate - Config Screen select Rain
     ParentSectionNodeId: 
   - FigmaNodeId: 364:6651
-    FigmaScreenPrefab: {fileID: 4147417171307999669, guid: bb9a95b8f229d164fb9a77021b707f94, type: 3}
+    FigmaScreenPrefab: {fileID: 7500933670318720889, guid: bb9a95b8f229d164fb9a77021b707f94, type: 3}
     FigmaScreenName: Meditate - Config Screen select environment
     ParentSectionNodeId: 
   - FigmaNodeId: 382:7773
-    FigmaScreenPrefab: {fileID: 8288473969359908435, guid: f4b12ff58af046f438fdb42110ee7723, type: 3}
+    FigmaScreenPrefab: {fileID: 7008483537430178212, guid: f4b12ff58af046f438fdb42110ee7723, type: 3}
     FigmaScreenName: Meditate - Config Screen select forest
     ParentSectionNodeId: 
   - FigmaNodeId: 242:2302
-    FigmaScreenPrefab: {fileID: 7371172165661666329, guid: 6366fdc9fc047ae4eaf16f811085036e, type: 3}
+    FigmaScreenPrefab: {fileID: 6771686518742994058, guid: 6366fdc9fc047ae4eaf16f811085036e, type: 3}
     FigmaScreenName: Meditate - Experience 1
     ParentSectionNodeId: 
   - FigmaNodeId: 302:3250
-    FigmaScreenPrefab: {fileID: 7628115506956092298, guid: c8737ef930bf68043b009c35b43042f0, type: 3}
+    FigmaScreenPrefab: {fileID: 784169403846800730, guid: c8737ef930bf68043b009c35b43042f0, type: 3}
     FigmaScreenName: Meditate - Experience 2
     ParentSectionNodeId: 
   - FigmaNodeId: 333:4161
-    FigmaScreenPrefab: {fileID: 1206567836930206156, guid: 9ba0e3953bba4794c9befa078d24096b, type: 3}
+    FigmaScreenPrefab: {fileID: 1790840216669792343, guid: 9ba0e3953bba4794c9befa078d24096b, type: 3}
     FigmaScreenName: Meditate - Experience 4
     ParentSectionNodeId: 
   - FigmaNodeId: 322:3280
-    FigmaScreenPrefab: {fileID: 7314354067089341052, guid: 8053addcca02ef944b8106d378ba28cf, type: 3}
+    FigmaScreenPrefab: {fileID: 1576350381331865051, guid: 8053addcca02ef944b8106d378ba28cf, type: 3}
     FigmaScreenName: Meditate - Experience 3
     ParentSectionNodeId: 
   - FigmaNodeId: 379:6732
-    FigmaScreenPrefab: {fileID: 4754203971381418902, guid: 1823f8ed814a4a740a838a9051f5af77, type: 3}
+    FigmaScreenPrefab: {fileID: 5602220038737394145, guid: 1823f8ed814a4a740a838a9051f5af77, type: 3}
     FigmaScreenName: Meditate - Experience 9
     ParentSectionNodeId: 
   - FigmaNodeId: 322:3270
-    FigmaScreenPrefab: {fileID: 7829224941901755216, guid: 2f1d3db04aa8ddd4490db6493eaa4dc9, type: 3}
+    FigmaScreenPrefab: {fileID: 6033481419804535957, guid: 2f1d3db04aa8ddd4490db6493eaa4dc9, type: 3}
     FigmaScreenName: Meditate - Experience 5
     ParentSectionNodeId: 
   - FigmaNodeId: 333:3482
-    FigmaScreenPrefab: {fileID: 5752884329003196182, guid: 5b9ba0de6eb5e354a9b97918c999f246, type: 3}
+    FigmaScreenPrefab: {fileID: 927465971377878179, guid: 5b9ba0de6eb5e354a9b97918c999f246, type: 3}
     FigmaScreenName: Meditate - Experience 6
     ParentSectionNodeId: 
   - FigmaNodeId: 382:7365
-    FigmaScreenPrefab: {fileID: 1655631103055521290, guid: d3fdac078333f2149a311692e723ff25, type: 3}
+    FigmaScreenPrefab: {fileID: 7732325851021707306, guid: d3fdac078333f2149a311692e723ff25, type: 3}
     FigmaScreenName: completion screen
     ParentSectionNodeId: 
   - FigmaNodeId: 382:7479
-    FigmaScreenPrefab: {fileID: 6981814407606425373, guid: 2982ea4728a60d74eaf9986952cd16d5, type: 3}
+    FigmaScreenPrefab: {fileID: 8995956632305968136, guid: 2982ea4728a60d74eaf9986952cd16d5, type: 3}
     FigmaScreenName: completion screen 2
     ParentSectionNodeId: 
   - FigmaNodeId: 333:4346
-    FigmaScreenPrefab: {fileID: 3483076394393791770, guid: aea08303f11b99c438babd7de72e0597, type: 3}
+    FigmaScreenPrefab: {fileID: 3635994303028568631, guid: aea08303f11b99c438babd7de72e0597, type: 3}
     FigmaScreenName: Meditate - Experience 7
     ParentSectionNodeId: 
   - FigmaNodeId: 333:4404
-    FigmaScreenPrefab: {fileID: 6017559377759748632, guid: 18e7bf9b14712e548a919b1d40fc6e70, type: 3}
+    FigmaScreenPrefab: {fileID: 8755646362060878049, guid: 18e7bf9b14712e548a919b1d40fc6e70, type: 3}
     FigmaScreenName: Meditate - Experience 8
     ParentSectionNodeId: 
   - FigmaNodeId: 364:5869
-    FigmaScreenPrefab: {fileID: 823543983027819838, guid: d48b96536976c9f4cbf5c8d825c6e155, type: 3}
+    FigmaScreenPrefab: {fileID: 344260906588364061, guid: d48b96536976c9f4cbf5c8d825c6e155, type: 3}
     FigmaScreenName: Frame 57
     ParentSectionNodeId: 
   - FigmaNodeId: 364:5903
-    FigmaScreenPrefab: {fileID: 981945160660848103, guid: 9fa9144bc973e204dbab500a91f41c45, type: 3}
+    FigmaScreenPrefab: {fileID: 258588998543633693, guid: 9fa9144bc973e204dbab500a91f41c45, type: 3}
     FigmaScreenName: Meditate - Config Parent Popup
     ParentSectionNodeId: 
   m_Sections: []
@@ -782,7 +783,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 2
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 1970306389}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -816,6 +817,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 950, y: 881}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &502060196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 502060191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d782e3d664faed49b4564d319ca64d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lookAt: {fileID: 577466455}
+  transformToFollow: {fileID: 423141234}
+  followSpeed: 1
 --- !u!1 &544381286
 GameObject:
   m_ObjectHideFlags: 0
@@ -2047,6 +2063,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 5606492826018665135, guid: 1abdc3868d30ec946ac8c90d888e0ac3, type: 3}
   spawnSpeed: 5
+--- !u!20 &1970306389 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 2015248, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+  m_PrefabInstance: {fileID: 1970306384}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2091279839
 GameObject:
   m_ObjectHideFlags: 0

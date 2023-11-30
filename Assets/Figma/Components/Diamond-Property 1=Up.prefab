@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &5146001519823257127
+--- !u!1 &7455575878982587955
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2024773173759894505}
-  - component: {fileID: 6477616436366413449}
-  - component: {fileID: 4979714645726949498}
-  - component: {fileID: 8918969155799828994}
-  - component: {fileID: 6854313601306926302}
-  - component: {fileID: 6221603918824509022}
+  - component: {fileID: 4466168329113280153}
+  - component: {fileID: 6953380464053753667}
+  - component: {fileID: 7834911516784659160}
+  - component: {fileID: 7271650330116180278}
+  - component: {fileID: 8968731406332348206}
+  - component: {fileID: 3220516635147655816}
   m_Layer: 0
   m_Name: Diamond-Property 1=Up
   m_TagString: Untagged
@@ -21,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &2024773173759894505
+--- !u!224 &4466168329113280153
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5146001519823257127}
+  m_GameObject: {fileID: 7455575878982587955}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -40,13 +40,13 @@ RectTransform:
   m_AnchoredPosition: {x: 267.32965, y: 67.92081}
   m_SizeDelta: {x: 140.65933, y: 103.841675}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &6477616436366413449
+--- !u!114 &6953380464053753667
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5146001519823257127}
+  m_GameObject: {fileID: 7455575878982587955}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
@@ -60,21 +60,21 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!222 &4979714645726949498
+--- !u!222 &7834911516784659160
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5146001519823257127}
+  m_GameObject: {fileID: 7455575878982587955}
   m_CullTransparentMesh: 1
---- !u!114 &8918969155799828994
+--- !u!114 &7271650330116180278
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5146001519823257127}
+  m_GameObject: {fileID: 7455575878982587955}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -98,13 +98,13 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &6854313601306926302
+--- !u!114 &8968731406332348206
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5146001519823257127}
+  m_GameObject: {fileID: 7455575878982587955}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -138,17 +138,17 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 8918969155799828994}
+  m_TargetGraphic: {fileID: 7271650330116180278}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &6221603918824509022
+--- !u!114 &3220516635147655816
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5146001519823257127}
+  m_GameObject: {fileID: 7455575878982587955}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c769d7a55f9d408f86cb6f07f9b2b80, type: 3}

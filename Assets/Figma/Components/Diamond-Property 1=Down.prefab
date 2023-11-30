@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &986022195682410028
+--- !u!1 &5446253518702917188
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 5259376495972689763}
-  - component: {fileID: 3731446591595804460}
-  - component: {fileID: 5803663536377990550}
-  - component: {fileID: 6871661426878676110}
-  - component: {fileID: 8889755095620468200}
-  - component: {fileID: 6997024673003426687}
+  - component: {fileID: 7884925599046386047}
+  - component: {fileID: 1127648733190983978}
+  - component: {fileID: 5775600670766995674}
+  - component: {fileID: 7909899235980678083}
+  - component: {fileID: 3566262015470691157}
+  - component: {fileID: 4739588009917823199}
   m_Layer: 0
   m_Name: Diamond-Property 1=Down
   m_TagString: Untagged
@@ -21,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &5259376495972689763
+--- !u!224 &7884925599046386047
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986022195682410028}
+  m_GameObject: {fileID: 5446253518702917188}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -40,13 +40,13 @@ RectTransform:
   m_AnchoredPosition: {x: 86.32965, y: -67.9209}
   m_SizeDelta: {x: 140.65933, y: 103.841675}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &3731446591595804460
+--- !u!114 &1127648733190983978
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986022195682410028}
+  m_GameObject: {fileID: 5446253518702917188}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
@@ -60,21 +60,21 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
---- !u!222 &5803663536377990550
+--- !u!222 &5775600670766995674
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986022195682410028}
+  m_GameObject: {fileID: 5446253518702917188}
   m_CullTransparentMesh: 1
---- !u!114 &6871661426878676110
+--- !u!114 &7909899235980678083
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986022195682410028}
+  m_GameObject: {fileID: 5446253518702917188}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -98,13 +98,13 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &8889755095620468200
+--- !u!114 &3566262015470691157
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986022195682410028}
+  m_GameObject: {fileID: 5446253518702917188}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -138,17 +138,17 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 6871661426878676110}
+  m_TargetGraphic: {fileID: 7909899235980678083}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &6997024673003426687
+--- !u!114 &4739588009917823199
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986022195682410028}
+  m_GameObject: {fileID: 5446253518702917188}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c769d7a55f9d408f86cb6f07f9b2b80, type: 3}

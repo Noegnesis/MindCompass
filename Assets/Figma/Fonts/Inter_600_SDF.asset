@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Inter_600_SDF
   m_EditorClassIdentifier: 
   hashCode: 261557379
-  material: {fileID: 7221105580084392496}
+  material: {fileID: 1505889743174684771}
   materialHashCode: 1176503363
   m_Version: 1.1.0
   m_SourceFontFileGUID: 14a8c019c76d2ea43aa274381dd737f9
@@ -1907,7 +1907,7 @@ MonoBehaviour:
     m_GlyphIndex: 672
     m_Scale: 1
   m_AtlasTextures:
-  - {fileID: 7545189874343118954}
+  - {fileID: 4058765539439875066}
   m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 1
   m_ClearDynamicDataOnBuild: 0
@@ -2712,7 +2712,7 @@ MonoBehaviour:
   boldSpacing: 7
   italicStyle: 35
   tabSize: 10
---- !u!21 &7221105580084392496
+--- !u!21 &1505889743174684771
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -2736,7 +2736,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 7545189874343118954}
+        m_Texture: {fileID: 4058765539439875066}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -2778,7 +2778,7 @@ Material:
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_BuildTextureStacks: []
---- !u!28 &7545189874343118954
+--- !u!28 &4058765539439875066
 Texture2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
