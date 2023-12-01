@@ -15,7 +15,7 @@ MonoBehaviour:
   DocumentUrl: https://www.figma.com/file/29jX9813WadVyj0MMG8mYX/MindCompass-Med-fi-Full-Walkthrough?type=design&node-id=0-1&mode=design&t=nE5b08SuIu0TONPa-0
   BuildPrototypeFlow: 1
   RunTimeAssetsScenePath: Assets/Scenes/VirtualWallXFigmaTest.unity
-  EnableAutoLayout: 0
+  EnableAutoLayout: 1
   ScreenBindingNamespace: 
   ServerRenderImageScale: 3
   EnableGoogleFontsDownloads: 1
