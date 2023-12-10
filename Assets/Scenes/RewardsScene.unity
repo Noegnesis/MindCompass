@@ -13796,6 +13796,10 @@ PrefabInstance:
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
+    - target: {fileID: 7640838529205974537, guid: b0776b6a5fd7aa648bf3b8e891bc52a6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 9.3
+      objectReference: {fileID: 0}
     - target: {fileID: 7761520883670795562, guid: b0776b6a5fd7aa648bf3b8e891bc52a6, type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
@@ -13807,6 +13811,10 @@ PrefabInstance:
     - target: {fileID: 8931264413686778954, guid: b0776b6a5fd7aa648bf3b8e891bc52a6, type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 8956855148429808221, guid: b0776b6a5fd7aa648bf3b8e891bc52a6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -35.00199
       objectReference: {fileID: 0}
     - target: {fileID: 9043704760993192259, guid: b0776b6a5fd7aa648bf3b8e891bc52a6, type: 3}
       propertyPath: m_SizeDelta.y
